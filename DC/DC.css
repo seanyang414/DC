@@ -182,14 +182,3 @@ p{
 	display: block;
 } 
 
-
-
-.last li{
-	background-color: red;
-	width: 70px;
-}
-
-.last:hover li{
-	background-color: white;
-}
-
